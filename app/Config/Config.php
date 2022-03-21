@@ -1,5 +1,8 @@
 <?php 
 
+// This class is used to configure your database and base url.
+// Note : there is manual configuration for local directory for bootstraps and javascript,,  please replace it with your own directory so that the javascript function on the addproduct page and index can run
+
 namespace App\Config;
 
 class Config 
