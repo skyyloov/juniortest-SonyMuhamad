@@ -9,7 +9,7 @@ and make sure that you change the directory inside footer.php and header.php in 
 
 I have completed this task and have also passed the AutoQA test
 
-Thankyou for checking my code :))
+Thankyou for checking my code :)
 
 kindest regards
 
